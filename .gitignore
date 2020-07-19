@@ -140,6 +140,3 @@ cython_debug/
 
 # JetBrains specific files
 .idea/
-
-# Docker
-docker-compose.yml
