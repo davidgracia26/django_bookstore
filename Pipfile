@@ -24,6 +24,7 @@ urllib3 = "==1.25.9"
 Django = "==3.0.1"
 pillow = "==6.2.1"
 stripe = "==2.41.0"
+django-debug-toolbar = "==2.0"
 
 [requires]
 python_version = "3.7"
