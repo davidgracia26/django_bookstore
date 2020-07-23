@@ -23,6 +23,7 @@ sqlparse = "==0.3.1"
 urllib3 = "==1.25.9"
 Django = "==3.0.1"
 pillow = "==6.2.1"
+stripe = "==2.41.0"
 
 [requires]
 python_version = "3.7"
