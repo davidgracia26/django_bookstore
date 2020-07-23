@@ -143,3 +143,4 @@ cython_debug/
 
 # Docker
 docker-compose.yml
+docker-compose.prod.yml
